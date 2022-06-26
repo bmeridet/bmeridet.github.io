@@ -22,7 +22,7 @@ title: DREAM Project Site
 
 <b>University / Department</b>: DePaul University, Computer Science Department
 
-<b>Area of Research</b>: Computer Science Theory as applied to language, automata, and complexity.
+<b>Area of Research</b>: Computer Science Theory applied to language, automata, and complexity.
 
 ## About My Project
 
