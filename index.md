@@ -39,7 +39,7 @@ As time passes, data is becoming more unstructured and FPGA's are playing larger
   <li>emails</li>
 </ul>
 
-
+The key question I'd like to answer is, what types of automata / finite state machines can be implemented on an FPGA and how fast can these algorithms process data on an FPGA?
 
 
 [My Final Report](files/finalreport.pdf)
