@@ -18,7 +18,7 @@ title: DREAM Project Site
 
 ## About My Advisor
 
-<b>Name</b>: [Dr. Michael Cadilhac](https://michael.cadilhac.name/)
+<b>Name</b>: [Dr. Micha&eumll Cadilhac](https://michael.cadilhac.name/)
 
 <b>University / Department</b>: DePaul University, Computer Science Department
 
